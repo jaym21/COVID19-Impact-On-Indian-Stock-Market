@@ -1,5 +1,6 @@
 # COVID19-Impact-On-Indian-Stock-Market
 - The impact of COVID19 on the Indian stock market is calculated with data analysis of the stock prices of stocks of companies from various industries.
+- The data of stocks is obtained from Yahoo Finance.
 - The impact on different industries is shown with the help of a plot and aslso the percent decline in adjusted closing prices.
 - The percent decline is calculated between the adjusted closing price on 20th Feb 2020 and 23th March 2020, as most companies saw lowest value of their stocks on 23rd March 2020 or near that date.
 - The impact of COVID19 on NIFTY and SENSEX is also shown.
